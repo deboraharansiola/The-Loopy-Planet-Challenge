@@ -1,0 +1,6 @@
+c:\users\dexty4real90\documents\visual studio 2015\Projects\The Loopy Planet Challenge\The Loopy Planet Challenge\bin\Debug\The Loopy Planet Challenge.exe.config
+C:\Users\dexty4real90\Documents\Visual Studio 2015\Projects\The Loopy Planet Challenge\The Loopy Planet Challenge\bin\Debug\The Loopy Planet Challenge.exe
+C:\Users\dexty4real90\Documents\Visual Studio 2015\Projects\The Loopy Planet Challenge\The Loopy Planet Challenge\bin\Debug\The Loopy Planet Challenge.pdb
+C:\Users\dexty4real90\Documents\Visual Studio 2015\Projects\The Loopy Planet Challenge\The Loopy Planet Challenge\obj\Debug\The Loopy Planet Challenge.csprojResolveAssemblyReference.cache
+C:\Users\dexty4real90\Documents\Visual Studio 2015\Projects\The Loopy Planet Challenge\The Loopy Planet Challenge\obj\Debug\The Loopy Planet Challenge.exe
+C:\Users\dexty4real90\Documents\Visual Studio 2015\Projects\The Loopy Planet Challenge\The Loopy Planet Challenge\obj\Debug\The Loopy Planet Challenge.pdb
